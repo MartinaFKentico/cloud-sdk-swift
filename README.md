@@ -13,11 +13,6 @@ The repository contains sample app which demonstrates basic usage of the SDK.
 
 <img src="https://github.com/Kentico/cloud-sdk-swift/blob/master/SampleAppScreens/splashScreens.png" width="212"> <img src="https://github.com/Kentico/cloud-sdk-swift/blob/master/SampleAppScreens/ourBeans.png" width="212"> <img src="https://github.com/Kentico/cloud-sdk-swift/blob/master/SampleAppScreens/ourBeans.png" width="212"> <img src="https://github.com/Kentico/cloud-sdk-swift/blob/master/SampleAppScreens/locations.png" width="212">
 
-## Prerequisites
-
-To retrieve content from a Kentico Cloud project via the Delivery API, you first need to activate the API for your project. See our documentation on [activating the Delivery API](https://developer.kenticocloud.com/docs/using-delivery-api#section-enabling-the-delivery-api-for-your-projects).
-
-
 ## Quick start
 **1. Add a pod**  
 ```ruby
